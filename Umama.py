@@ -1,2 +1,2 @@
-print("Pedro é gay")
+print("Pedro nao é gay")
 print("É mentira!!!")
